@@ -59,3 +59,18 @@ Use case diagrams show how different users (actors) interact with the system to 
 - Help in identifying and organizing system requirements.
 - Facilitate communication among stakeholders and the development team.
 
+## Acceptance Criteria.
+Objective: Establishing clear criteria for feature completion.
+
+#### What is Acceptance Criteria?
+- Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+#### How to Define Acceptance Criteria:
+- Be specific and measurable.
+- Include functional and non-functional aspects.
+- Example for Booking System: “Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.”
+#### Benefits of Acceptance Criteria:
+- Ensure all parties have a clear understanding of feature requirements.
+- Provide a basis for testing and validation.
+- Help in maintaining quality and meeting user expectations.
+
+
